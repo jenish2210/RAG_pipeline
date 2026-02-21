@@ -1,0 +1,16 @@
+#  pip install -r requirements.txt  
+
+
+
+streamlit==1.32.2
+
+langchain==0.2.16
+langchain-core==0.2.43
+langchain-community==0.2.16
+langchain-text-splitters==0.2.2
+
+faiss-cpu==1.8.0
+pypdf==4.2.0
+
+ollama==0.3.3
+
